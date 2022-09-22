@@ -14,3 +14,10 @@ Criar um esquema conceitual do zero. A partir da narrativa fornecida, com todas 
  - A mesma equipe avalia e executa os serviços
  - Os mecânicos possuem código, nome, endereço e especialidade
  - Cada OS possui: n°, data de emissão, um valor, status e uma data para conclusão dos trabalhos
+ 
+<h3>Desafio Concluído</h3>
+
+Criado um esquema de modelagem de conceito conceitual do zero.
+
+Link: [Clique aqui para ver](https://github.com/devttheus/Database-Experience-DIO/blob/main/modelagemDeSistemaDeOficina/ordemServico-oficina.png)
+
